@@ -34,4 +34,4 @@ Technologies that have been used
 > [DEMO LINK](https://boikoua.github.io/museum-layout/).
 
 > Link to website layout in Figma
-> [Museum landing](<https://www.figma.com/design/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323-1957&node-type=canvas&t=dXsf2rilTes8fhiL-0)
+> [Museum landing](https://www.figma.com/design/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323-1957&node-type=canvas&t=dXsf2rilTes8fhiL-0)
